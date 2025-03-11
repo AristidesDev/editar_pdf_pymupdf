@@ -61,12 +61,12 @@ def insertar_rectangulo_con_texto(
 insertar_rectangulo_con_texto(
     input_pdf="static/Template_Factura_Vertical_SVG.pdf",
     output_pdf="new_document/documento_con_texto.pdf",
-    texto="J-15265067-0",
-    rect_x=305.5,          # Posición X del rectángulo
-    rect_y=67.6,         # Posición Y del rectángulo
-    rect_width=107,     # Ancho del rectángulo
-    rect_height=12,     # Alto del rectángulo
-    color_rect=(1, 1, 1),  # Blanco
+    texto="NOMBRE DE LA EMPRESA",
+    rect_x=123.7,          # Posición X del rectángulo
+    rect_y=38.10,         # Posición Y del rectángulo
+    rect_width=154,     # Ancho del rectángulo
+    rect_height=73.7,     # Alto del rectángulo
+    color_rect=(0.25, 0.75, 0.75),  # Blanco
     color_texto=(0, 0, 0),     # Negro
     font_size=7,
     align=1            # Texto centrado

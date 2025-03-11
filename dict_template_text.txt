@@ -17,10 +17,11 @@ textos = [
         # "color_border" : (0.25, 0.75, 0.75), # Color del border del rectángulo (RGB)
     },
 
-    # Ejemplo de insertar texto SIN rectangulo
+
+# REGISTRO DE INFORMACION FISCAL (RIF)
     {
         "pagina": 0, # numero de pagina a editar
-        "texto": "31552665", # Texto a introducir
+        "texto": "J-31550607-4", # Texto a introducir
         "font_name": "hebo", # nombre de la fuente
         "font_size": 11, # Tamano de la fuente
         "color_text" : (0, 0, 0), # Color del texto (RGB)
@@ -29,6 +30,7 @@ textos = [
     },
 
 # FOOTER
+    # NUMERO DE CONTROL
     # Numero de control inicio
     {
         "pagina": 0, # numero de pagina a editar
@@ -51,6 +53,7 @@ textos = [
         "y": 561.50, # posicion inical en Y
     },
 
+    # NUMERO DE FACTURA
     # Numero de factura inicio
     {
         "pagina": 0, # numero de pagina a editar
