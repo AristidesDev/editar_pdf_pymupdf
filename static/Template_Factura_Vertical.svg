@@ -24,9 +24,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showguides="true"
-     inkscape:zoom="2"
-     inkscape:cx="272"
-     inkscape:cy="29.75"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="331.63308"
+     inkscape:cy="102.00015"
      inkscape:window-width="1350"
      inkscape:window-height="728"
      inkscape:window-x="0"
@@ -273,11 +273,11 @@
        d="m 28.063517,152.90712 h 2.274039 v 0.79592 h -2.274039 z"
        style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.352778;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:22.9256;stroke-dasharray:none;stroke-opacity:1" />
     <rect
-       style="fill:#000000;stroke:none;stroke-width:0.352778;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       style="fill:#d75428;stroke:none;stroke-width:0.352778;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
        id="rect6"
-       width="81.621384"
-       height="26.235359"
-       x="16.404737"
+       width="55.139168"
+       height="9.5955553"
+       x="42.897778"
        y="13.284095" />
     <text
        xml:space="preserve"
@@ -1186,5 +1186,13 @@
        height="0.0070555555"
        x="16.404167"
        y="13.282084" />
+    <rect
+       style="fill:#fccd92;stroke:none;stroke-width:0.352778;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       id="rect1"
+       width="26.232555"
+       height="26.228535"
+       x="-42.637291"
+       y="13.279571"
+       transform="matrix(-0.99999999,-1.5326816e-4,0,1,0,0)" />
   </g>
 </svg>
